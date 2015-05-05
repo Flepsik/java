@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="BDLab:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="BDLab.war">
+      <element id="artifact" artifact-name="BDLab:war exploded" />
+    </root>
+  </artifact>
+</component>
